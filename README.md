@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/osamah.jpg" width="140" alt="Osamah H. Alaini" style="border-radius:50%">
+
 # Osamah H. Alaini
 
 ### Software Engineer · AI · Full-Stack · DevOps
@@ -32,6 +34,8 @@ Software engineer building intelligent, production-ready systems — from machin
 | **FSE Companion 2026** — Montreal | *A Vision for Context-Aware CI Adoption Decisions* (with Taher A. Ghaleb) |
 | **HAHA @ IberLEF 2026** — León | *Prompting and Fine-Tuning Approaches for Detection and Generation of Spanish Humor* |
 | **ESEM 2026** — Registered Reports Track, Munich | *Exploring Developer Perceptions on the Potential of CI Recommendation Systems* |
+
+Also: [Catching Smells in the Act: A GitHub Actions Workflow Investigation](https://www.researchgate.net/publication/387244148_Catching_Smells_in_the_Act_A_GitHub_Actions_Workflow_Investigation) · [arXiv:2604.09683](https://arxiv.org/pdf/2604.09683)
 
 Current research collaboration with **Trent University, Canada** on context-aware CI adoption and intelligent developer support.
 
