@@ -2,9 +2,10 @@
 
 <img src="assets/osamah.jpg" width="140" alt="Osamah H. Alaini" style="border-radius:50%">
 
-# Osamah H. Alaini
+# Engr. Osamah H. Alaini
 
 ### Software Engineer · AI · Full-Stack · DevOps
+**BS Software Engineering Graduate · Researcher · Published in FSE · ESEM · IberLEF**
 
 *Lahore, Pakistan*
 
