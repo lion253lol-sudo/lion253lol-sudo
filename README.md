@@ -1,37 +1,54 @@
-# Hi, I'm Osamah Hussein Alaini 👋
+<div align="center">
 
-**Software Engineer** specializing in **AI, full-stack development and DevOps** — based in Lahore, Pakistan.
+# Osamah H. Alaini
 
-🌐 Portfolio: [osamah.cloud](https://osamah.cloud) · 💼 [LinkedIn](https://linkedin.com/in/engosamah/)
+### Software Engineer · AI · Full-Stack · DevOps
+
+*Lahore, Pakistan*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-osamah.cloud-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://osamah.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-engosamah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engosamah/)
+
+</div>
 
 ---
 
-## About
+## 👤 About
 
-I build intelligent, production-ready software — from machine-learning and NLP systems to full-stack platforms and automated delivery pipelines — and I do research on how AI can support developers.
+Software engineer building intelligent, production-ready systems — from machine-learning and NLP solutions to full-stack platforms and automated delivery pipelines — with an active research interest in how AI can support developers.
 
-## Experience
+## 💼 Experience
 
-- **Lead Developer — TrustiveTech** (Remote, Aug 2025 – Present): leading full-stack projects from design to deployment.
-- **AI Engineer — Bitlogicx, Lahore** (Mar 2024 – May 2025): machine learning, deep learning, NLP and computer-vision solutions for business applications.
-- **Freelance Full Stack Developer** (2023 – 2025): end-to-end solutions for clients across Qatar, Saudi Arabia and the wider MENA region.
+| Period | Role | Focus |
+|---|---|---|
+| Aug 2025 – Present | **Lead Developer** · TrustiveTech (Remote) | Leading full-stack projects from design to deployment |
+| Mar 2024 – May 2025 | **AI Engineer** · Bitlogicx, Lahore | Machine learning, deep learning, NLP and computer-vision solutions |
+| 2023 – 2025 | **Freelance Full Stack Developer** | End-to-end delivery for clients in Qatar, Saudi Arabia and the wider MENA region |
 
-## Research
+## 🔬 Research
 
-- *A Vision for Context-Aware CI Adoption Decisions* — FSE Companion 2026 (with Taher A. Ghaleb)
-- *Prompting and Fine-Tuning Approaches for Detection and Generation of Spanish Humor* — HAHA at IberLEF 2026
-- *Exploring Developer Perceptions on the Potential of CI Recommendation Systems* — ESEM 2026, Registered Reports Track
+| Venue | Work |
+|---|---|
+| **FSE Companion 2026** — Montreal | *A Vision for Context-Aware CI Adoption Decisions* (with Taher A. Ghaleb) |
+| **HAHA @ IberLEF 2026** — León | *Prompting and Fine-Tuning Approaches for Detection and Generation of Spanish Humor* |
+| **ESEM 2026** — Registered Reports Track, Munich | *Exploring Developer Perceptions on the Potential of CI Recommendation Systems* |
 
-## Skills
+Current research collaboration with **Trent University, Canada** on context-aware CI adoption and intelligent developer support.
 
-- **AI & Machine Learning:** machine learning, deep learning, NLP, computer vision
-- **Full-Stack Development:** frontend interfaces, backend APIs, authentication, dashboards
-- **DevOps & CI/CD:** automated workflows, deployment pipelines, cloud delivery
+## 🛠 Expertise
 
-## Education
+- **AI & Machine Learning** — machine learning, deep learning, NLP, computer vision
+- **Full-Stack Development** — responsive interfaces, backend APIs, authentication, dashboards
+- **DevOps & CI/CD** — automated workflows, deployment pipelines, cloud delivery
+
+## 🎓 Education
 
 **BS Software Engineering** — Superior University, Lahore (2021 – 2025)
 
 ---
 
-📫 Reach me through [osamah.cloud](https://osamah.cloud) or [LinkedIn](https://linkedin.com/in/engosamah/).
+<div align="center">
+
+📫 [osamah.cloud](https://osamah.cloud) · [LinkedIn](https://linkedin.com/in/engosamah/)
+
+</div>
