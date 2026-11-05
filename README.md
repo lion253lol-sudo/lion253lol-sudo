@@ -35,15 +35,28 @@ Software engineer building intelligent, production-ready systems — from machin
 
 Current research collaboration with **Trent University, Canada** on context-aware CI adoption and intelligent developer support.
 
+## 🚀 Featured Projects
+
+| Project | Region | Description |
+|---|---|---|
+| **Rawabet Real Estate Platform** | Saudi Arabia | Bilingual Arabic/English real estate platform with property listing management, user accounts, smart-home features, dynamic dashboards, secure authentication and cloud infrastructure. |
+| **Ajial Educational Platform** | Qatar & Saudi Arabia | Multilingual, multi-regional educational platform with dynamic content, booking, notifications, user management, feedback and analytics. |
+| **Al Faris Legal Services App** | Saudi Arabia | Bilingual mobile app connecting clients with verified lawyers: secure authentication, real-time chat, video calls, payments, AI legal consultation and an admin panel. |
+| **Bayt AI-Lughah** | Research | Arabic dialect annotation platform with automated inter-annotator agreement scoring, supporting NLP research on Arabic. |
+| **TrustiveTech Website** | Remote | Production-grade company website for an early-stage technology startup. |
+
 ## 🛠 Expertise
 
 - **AI & Machine Learning** — machine learning, deep learning, NLP, computer vision
 - **Full-Stack Development** — responsive interfaces, backend APIs, authentication, dashboards
 - **DevOps & CI/CD** — automated workflows, deployment pipelines, cloud delivery
+- **Engineering mindset** — logic and algorithmic thinking, problem solving, analytical reasoning
 
 ## 🎓 Education
 
 **BS Software Engineering** — Superior University, Lahore (2021 – 2025)
+
+**Interests:** research & innovation · coding · computational logic · platform architecture · international affairs · gaming
 
 ---
 
